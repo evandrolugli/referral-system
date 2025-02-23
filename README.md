@@ -33,8 +33,8 @@ Referral System: users register, refer others, earn points, and rank up.
 
 
 Biome (like prittier, etc…)
-    - Install the extension - Biome
-    - biome.json (config file)
-	- CMD + Shift + P : Preferences: Open Workspace Settings (only the current project)
-	- CMD + Shift + P : Reload Window
+- Install the extension - Biome
+- biome.json (config file)
+- CMD + Shift + P : Preferences: Open Workspace Settings (only the current project)
+- CMD + Shift + P : Reload Window
 
